@@ -103,9 +103,9 @@ DF:86:DD:07:D3:FD:57:66:C7:61:30:49:CF:91:9D:52:55:01:E8:27:96:B0:30:38:05:6B:17
 
 ```
 
-В браузере:
-http:
+В браузере:  
+http:  
 ![](Screenshots/photo1.png)
 
-https:
+https:  
 ![](Screenshots/photo2.png)
